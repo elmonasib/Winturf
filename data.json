@@ -1,0 +1,27 @@
+{
+  "header": {
+    "top_announcement": "Pronostic gratuite",
+    "menu_items": [
+      { "title": "ACCUEIL", "link": "#" },
+      { "title": "COURSES", "link": "#" },
+      { "title": "PRONOSTICS", "link": "#" }
+    ]
+  },
+  "hero_section": {
+    "date": "05-02-2026",
+    "title": "Vincennes - Prix de France",
+    "description": "Deux semaines après le prix d'Amérique, nous retrouverons nos héros hivernaux dans un exercice différent",
+    "prediction_label": "Pronostic Quinté+"
+  },
+  "predictions": [
+    { "horse_number": 7 },
+    { "horse_number": 3 },
+    { "horse_number": 16 },
+    { "horse_number": 15 },
+    { "horse_number": 11 },
+    { "horse_number": 5 }
+  ],
+  "footer": {
+    "copyright": "© 2026 CLUB ROYAL | L'EXCELLENCE ÉQUESTRE"
+  }
+}
