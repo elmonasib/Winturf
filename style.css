@@ -153,8 +153,8 @@ main {
 }
 
 .medal {
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     background: var(--gold-gradient);
     border-radius: 50%;
     display: flex;
@@ -167,7 +167,7 @@ main {
 }
 
 .medal span {
-    font-size: 2.2rem;
+    font-size: 2.0rem;
     font-weight: 900;
     color: var(--bg-dark);
     text-shadow: 1px 1px 0px rgba(255,255,255,0.2);
@@ -223,10 +223,11 @@ footer {
         width: 35px;
         height: 35px;
         margin: 10 auto;
+        display: flex;
     }
 
     .medal span {
-        font-size: 1.4rem;
+        font-size: 1.10rem;
     }
 }
 
@@ -236,6 +237,7 @@ footer {
     }
     .medals-grid {
         gap: 10px;
+        display: flex;
     }
     .medal {
         width: 75px;
